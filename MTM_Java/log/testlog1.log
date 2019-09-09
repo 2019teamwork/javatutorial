@@ -1,0 +1,417 @@
+2019-08-26 17:29:33,496 [main] INFO Log4jUtil - Browser Opened
+2019-08-26 17:38:35,732 [main] INFO Log4jUtil - Browser Opened
+2019-08-26 17:41:06,639 [main] INFO Log4jUtil - Browser Opened
+2019-08-26 17:43:03,800 [main] INFO Log4jUtil - Browser Opened
+2019-08-26 17:43:26,885 [main] INFO Log4jUtil - Browser Opened
+2019-08-26 17:44:53,560 [main] INFO Log4jUtil - Browser Opened
+2019-08-26 17:45:51,806 [main] INFO Log4jUtil - Browser Opened
+2019-08-27 08:25:05,575 [main] INFO Log4jUtil - Browser Opened
+2019-08-27 08:31:58,168 [main] INFO Log4jUtil - Browser Opened
+2019-08-27 08:32:35,067 [main] INFO Log4jUtil - Browser Opened
+2019-08-27 08:34:50,219 [main] INFO Log4jUtil - Browser Opened
+2019-08-27 08:40:05,566 [main] INFO Log4jUtil - Browser Opened
+2019-08-27 08:41:47,123 [main] INFO Log4jUtil - Browser Opened
+2019-08-27 08:44:59,341 [main] INFO Log4jUtil - Browser Opened
+2019-08-27 11:52:54,465 [main] INFO Log4jUtil - QA Environment is Selected
+2019-08-27 11:52:56,290 [main] INFO Log4jUtil - Chrome browser Opened
+2019-08-27 11:58:45,788 [main] INFO Main - QA Environment is Selected
+2019-08-27 11:58:47,665 [main] INFO Main - Chrome browser Opened
+2019-08-27 12:11:28,041 [main] INFO Main - QA Environment is Selected
+2019-08-27 14:11:14,489 [main] INFO Main - QA Environment is Selected
+2019-08-27 14:11:22,210 [main] INFO Scripts.Login - Inspire link Found
+2019-08-27 14:11:46,525 [main] INFO Scripts.Login - MemberID text field displayed
+2019-08-27 14:12:23,738 [main] INFO Scripts.Login - Member Home Page displays
+2019-08-27 14:38:10,160 [main] INFO Main - QA Environment is Selected
+2019-08-27 14:38:12,303 [main] INFO Scripts.Login - Inspire link Found
+2019-08-27 14:38:13,454 [main] INFO Scripts.Login - MemberID text field displayed
+2019-08-27 14:38:29,440 [main] INFO Scripts.Login - Member Home Page displays
+2019-08-27 14:58:00,772 [main] INFO Main - QA Environment is Selected
+2019-08-27 14:59:09,844 [main] INFO Main - QA Environment is Selected
+2019-08-27 14:59:12,104 [main] INFO Scripts.Login - Inspire link Found
+2019-08-27 14:59:38,903 [main] INFO Main - QA Environment is Selected
+2019-08-27 14:59:40,930 [main] INFO Main - Chrome browser with Specific port is opened
+2019-08-27 15:00:02,974 [main] INFO Scripts.Login - Inspire link Found
+2019-08-27 15:00:04,329 [main] INFO Scripts.Login - MemberID text field displayed
+2019-08-27 15:00:35,180 [main] INFO Scripts.Login - Member Home Page displays
+2019-08-27 15:00:56,148 [main] INFO Scripts.Medication - Inspire link NOT Found... Exiting script execution
+2019-08-27 15:01:45,092 [main] INFO Main - QA Environment is Selected
+2019-08-27 15:01:47,244 [main] INFO Scripts.Login - Inspire link Found
+2019-08-27 15:01:48,166 [main] INFO Scripts.Login - MemberID text field displayed
+2019-08-27 15:02:08,901 [main] INFO Scripts.Login - Member Home Page displays
+2019-08-27 15:02:09,345 [main] INFO Scripts.Medication - Inspire link NOT Found... Exiting script execution
+2019-08-28 08:53:01,294 [main] INFO Main - QA Environment is Selected
+2019-08-28 08:53:04,020 [main] INFO Scripts.Login - Inspire link Found
+2019-08-28 08:53:12,861 [main] INFO Scripts.Login - MemberID text field displayed
+2019-08-28 08:53:18,504 [main] INFO Scripts.Login - Member Home Page displays
+2019-08-28 08:53:18,919 [main] INFO Scripts.Medication - Inspire link NOT Found... Exiting script execution
+2019-08-28 08:54:00,548 [main] INFO Main - QA Environment is Selected
+2019-08-28 08:54:02,846 [main] INFO Scripts.Login - Inspire link Found
+2019-08-28 08:54:03,857 [main] INFO Scripts.Login - MemberID text field displayed
+2019-08-28 08:54:50,269 [main] INFO Scripts.Login - Member Home Page displays
+2019-08-28 08:54:50,744 [main] INFO Scripts.Medication - Inspire link NOT Found... Exiting script execution
+2019-08-28 08:59:38,503 [main] INFO Main - QA Environment is Selected
+2019-08-28 08:59:41,355 [main] INFO Scripts.Login - Inspire link Found
+2019-08-28 08:59:42,233 [main] INFO Scripts.Login - MemberID text field displayed
+2019-08-28 08:59:58,632 [main] INFO Scripts.Login - Member Home Page displays
+2019-08-28 08:59:59,033 [main] INFO Scripts.Medication - Inspire link NOT Found... Exiting script execution
+2019-08-28 09:00:50,846 [main] INFO Main - QA Environment is Selected
+2019-08-28 09:00:52,986 [main] INFO Scripts.Login - Inspire link Found
+2019-08-28 09:00:53,858 [main] INFO Scripts.Login - MemberID text field displayed
+2019-08-28 09:00:59,268 [main] INFO Scripts.Login - Member Home Page displays
+2019-08-28 09:00:59,679 [main] INFO Scripts.Medication - Inspire link NOT Found... Exiting script execution
+2019-08-28 09:20:25,502 [main] INFO Main - QA Environment is Selected
+2019-08-28 09:21:09,276 [main] INFO Main - QA Environment is Selected
+2019-08-28 09:28:03,277 [main] INFO Main - QA Environment is Selected
+2019-08-28 09:29:17,153 [main] INFO Main - QA Environment is Selected
+2019-08-28 09:30:21,440 [main] INFO Main - QA Environment is Selected
+2019-08-28 09:33:05,720 [main] INFO Main - QA Environment is Selected
+2019-08-28 09:33:13,496 [main] INFO Scripts.Login - Inspire link Found
+2019-08-28 09:33:47,964 [main] INFO Main - QA Environment is Selected
+2019-08-28 09:33:49,984 [main] INFO Main - Chrome browser with Specific port is opened
+2019-08-28 09:34:10,368 [main] INFO Scripts.Login - Inspire link Found
+2019-08-28 09:34:25,650 [main] INFO Scripts.Login - MemberID text field displayed
+2019-08-28 09:35:29,840 [main] INFO Scripts.Login - Member Home Page displays
+2019-08-28 09:37:51,961 [main] INFO Main - QA Environment is Selected
+2019-08-28 09:38:40,989 [main] INFO Scripts.Medication - Home page NOT displayed... Exiting script execution
+2019-08-28 09:42:55,218 [main] INFO Main - QA Environment is Selected
+2019-08-28 09:43:18,741 [main] INFO Scripts.Medication - Home page NOT displayed... Exiting script execution
+2019-08-28 10:20:16,450 [main] INFO Main - QA Environment is Selected
+2019-08-28 10:20:19,237 [main] INFO Scripts.Login - Inspire link Found
+2019-08-28 10:20:48,662 [main] INFO Main - QA Environment is Selected
+2019-08-28 10:20:50,684 [main] INFO Main - Chrome browser with Specific port is opened
+2019-08-28 10:21:09,487 [main] INFO Scripts.Login - Inspire link Found
+2019-08-28 10:21:12,177 [main] INFO Scripts.Login - MemberID text field displayed
+2019-08-28 10:22:02,350 [main] INFO Scripts.Login - Member Home Page displays
+2019-08-28 10:25:48,071 [main] INFO Scripts.Medication - Home page NOT displayed... Exiting script execution
+2019-08-28 10:26:54,230 [main] INFO Main - QA Environment is Selected
+2019-08-28 10:27:24,141 [main] INFO Main - QA Environment is Selected
+2019-08-28 10:28:42,472 [main] INFO Scripts.Medication - Home page NOT displayed... Exiting script execution
+2019-08-28 10:34:20,943 [main] INFO Main - QA Environment is Selected
+2019-08-28 10:35:27,926 [main] INFO Main - QA Environment is Selected
+2019-08-28 10:46:12,423 [main] INFO Main - QA Environment is Selected
+2019-08-28 10:47:44,704 [main] INFO Scripts.Medication - Home page NOT displayed... Exiting script execution
+2019-08-28 10:50:56,192 [main] INFO Main - QA Environment is Selected
+2019-08-28 10:51:40,193 [main] INFO Main - QA Environment is Selected
+2019-08-28 10:53:15,290 [main] INFO Scripts.Medication - Home page NOT displayed... Exiting script execution
+2019-08-28 10:59:38,123 [main] INFO Main - QA Environment is Selected
+2019-08-28 10:59:40,491 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Complete Medications list) Found ........
+2019-08-28 11:00:39,143 [main] INFO Main - QA Environment is Selected
+2019-08-28 11:00:41,928 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Complete Medications list) Found ........
+2019-08-28 11:00:41,966 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Complete Medications list) Found ........
+2019-08-28 11:06:43,316 [main] INFO Main - QA Environment is Selected
+2019-08-28 11:07:06,355 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Related Condition Page) Found ........
+2019-08-28 11:08:14,531 [main] INFO Main - QA Environment is Selected
+2019-08-28 11:08:45,870 [main] INFO Main - QA Environment is Selected
+2019-08-28 11:08:51,191 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Related Condition Page) Found ........
+2019-08-28 11:11:21,175 [main] INFO Main - QA Environment is Selected
+2019-08-28 11:15:16,981 [main] INFO Main - QA Environment is Selected
+2019-08-28 11:15:58,822 [main] INFO Main - QA Environment is Selected
+2019-08-28 11:17:29,713 [main] INFO Main - QA Environment is Selected
+2019-08-28 11:25:53,010 [main] INFO Main - QA Environment is Selected
+2019-08-28 11:27:07,730 [main] INFO Scripts.Medication - Home page NOT displayed... Exiting script execution
+2019-08-28 11:27:42,186 [main] INFO Main - QA Environment is Selected
+2019-08-28 11:30:17,397 [main] INFO Main - QA Environment is Selected
+2019-08-28 11:30:57,028 [main] INFO Main - QA Environment is Selected
+2019-08-28 11:32:11,149 [main] INFO Main - QA Environment is Selected
+2019-08-28 11:32:47,085 [main] INFO Main - QA Environment is Selected
+2019-08-28 11:33:11,551 [main] INFO Main - QA Environment is Selected
+2019-08-28 11:42:38,138 [main] INFO Main - QA Environment is Selected
+2019-08-28 11:43:15,403 [main] INFO Main - QA Environment is Selected
+2019-08-28 11:43:56,820 [main] INFO Main - QA Environment is Selected
+2019-08-28 11:49:08,851 [main] INFO Main - QA Environment is Selected
+2019-08-28 11:50:10,450 [main] INFO Main - QA Environment is Selected
+2019-08-28 11:50:35,461 [main] INFO Main - QA Environment is Selected
+2019-08-28 11:50:46,821 [main] INFO Main - QA Environment is Selected
+2019-08-28 11:51:34,305 [main] INFO Main - QA Environment is Selected
+2019-08-28 11:52:10,867 [main] INFO Main - QA Environment is Selected
+2019-08-28 11:52:57,088 [main] INFO Main - QA Environment is Selected
+2019-08-28 11:54:07,296 [main] INFO Main - QA Environment is Selected
+2019-08-28 11:56:41,717 [main] INFO Main - QA Environment is Selected
+2019-08-28 12:00:22,658 [main] INFO Main - QA Environment is Selected
+2019-08-28 12:03:07,288 [main] INFO Main - QA Environment is Selected
+2019-08-28 12:03:27,260 [main] INFO Main - QA Environment is Selected
+2019-08-28 12:08:56,336 [main] INFO Main - QA Environment is Selected
+2019-08-28 12:09:18,005 [main] INFO Main - QA Environment is Selected
+2019-08-28 12:09:28,895 [main] INFO Main - PROD Environment Confirmed
+2019-08-28 12:09:30,968 [main] INFO Main - PROD Environment Confirmed
+2019-08-28 12:09:33,009 [main] INFO Main - PROD Environment Confirmed
+2019-08-28 12:09:35,079 [main] INFO Main - PROD Environment Confirmed
+2019-08-28 12:09:37,106 [main] INFO Main - PROD Environment Confirmed
+2019-08-28 12:09:39,131 [main] INFO Main - PROD Environment Confirmed
+2019-08-28 12:09:41,175 [main] INFO Main - PROD Environment Confirmed
+2019-08-28 12:09:43,182 [main] INFO Main - PROD Environment Confirmed
+2019-08-28 12:09:45,204 [main] INFO Main - PROD Environment Confirmed
+2019-08-28 12:09:47,226 [main] INFO Main - PROD Environment Confirmed
+2019-08-28 12:11:04,794 [main] INFO Main - QA Environment is Selected
+2019-08-28 12:11:14,556 [main] INFO Main - QA Environment is Selected
+2019-08-28 12:11:42,682 [main] INFO Main - ENVIRONMENT DEFINED IN CONFIG IS QA, BUT CURRENT URL IS PROD --- EXITING SCRIPT EXECUTION
+2019-08-28 12:12:23,237 [main] INFO Main - QA Environment is Selected
+2019-08-28 12:12:36,724 [main] INFO Main - ENVIRONMENT DEFINED IN CONFIG.PROPERTIES IS QA, BUT CURRENT URL IS PROD --- EXITING SCRIPT EXECUTION
+2019-08-28 12:13:21,370 [main] INFO Main - QA Environment is Selected
+2019-08-28 12:13:26,816 [main] INFO Main - ENVIRONMENT DEFINED IN CONFIG.PROPERTIES IS QA, BUT CURRENT URL IS PROD --- EXITING SCRIPT EXECUTION
+2019-08-28 12:15:47,141 [main] INFO Main - QA Environment is Selected
+2019-08-28 12:15:54,680 [main] INFO Main - ENVIRONMENT DEFINED IN CONFIG.PROPERTIES IS QA, BUT CURRENT URL IS PROD --- EXITING SCRIPT EXECUTION
+2019-08-28 12:24:26,105 [main] INFO Main - PROD ENVIRONMENT CONFIRMED
+2019-08-28 12:24:55,988 [main] INFO Main - PROD ENVIRONMENT CONFIRMED
+2019-08-28 12:26:12,333 [main] INFO Main - QA Environment is Selected
+2019-08-28 12:26:21,827 [main] INFO Main - ENVIRONMENT DEFINED IN CONFIG.PROPERTIES IS QA, BUT CURRENT URL IS PROD --- EXITING SCRIPT EXECUTION
+2019-08-28 12:27:08,324 [main] INFO Main - QA Environment is Selected
+2019-08-28 12:28:12,010 [main] INFO Main - QA Environment is Selected
+2019-08-28 12:29:04,532 [main] INFO Main - QA Environment is Selected
+2019-08-28 12:29:11,977 [main] INFO Main - ENVIRONMENT DEFINED IN CONFIG.PROPERTIES IS QA, BUT CURRENT URL IS PROD --- EXITING SCRIPT EXECUTION
+2019-08-28 12:32:25,683 [main] INFO Main - Opening Chrome Browser
+2019-08-28 12:40:07,109 [main] INFO Main - Opening Chrome Browser
+2019-08-28 12:40:28,454 [main] INFO Main - PROD ENVIRONMENT CONFIRMED
+2019-08-28 12:41:07,010 [main] INFO Main - QA Environment is Selected
+2019-08-28 12:41:07,015 [main] INFO Main - Opening Chrome Browser
+2019-08-28 12:41:22,509 [main] INFO Main - ENVIRONMENT DEFINED IN CONFIG.PROPERTIES IS QA, BUT CURRENT URL IS PROD --- EXITING SCRIPT EXECUTION
+2019-08-28 12:42:47,752 [main] INFO Main - QA Environment is Selected
+2019-08-28 12:42:47,757 [main] INFO Main - Opening Chrome Browser
+2019-08-28 12:42:55,225 [main] INFO Main - ENVIRONMENT DEFINED IN CONFIG.PROPERTIES IS QA, BUT CURRENT URL IS PROD --- EXITING SCRIPT EXECUTION
+2019-08-28 12:46:00,115 [main] INFO Main - QA Environment is Selected
+2019-08-28 12:46:00,121 [main] INFO Main - Opening Chrome Browser
+2019-08-28 12:46:27,319 [main] INFO Main - QA Environment is Selected
+2019-08-28 12:46:27,324 [main] INFO Main - Opening Chrome Browser
+2019-08-28 12:47:00,272 [main] INFO Main - QA Environment is Selected
+2019-08-28 12:47:00,277 [main] INFO Main - Opening Chrome Browser
+2019-08-28 12:47:19,793 [main] INFO Main - ENVIRONMENT DEFINED IN CONFIG.PROPERTIES IS QA, BUT CURRENT URL IS PROD --- EXITING SCRIPT EXECUTION
+2019-08-28 12:47:56,557 [main] INFO Main - QA Environment is Selected
+2019-08-28 12:47:56,562 [main] INFO Main - Opening Chrome Browser
+2019-08-28 12:48:14,088 [main] INFO Main - ENVIRONMENT DEFINED IN CONFIG.PROPERTIES IS QA, BUT CURRENT URL IS PROD --- EXITING SCRIPT EXECUTION
+2019-08-28 12:48:37,439 [main] INFO Main - Opening Chrome Browser
+2019-08-28 12:48:48,960 [main] INFO Main - PROD ENVIRONMENT CONFIRMED
+2019-08-28 12:50:40,402 [main] INFO Main - QA Environment is Selected
+2019-08-28 12:50:40,408 [main] INFO Main - Opening Chrome Browser
+2019-08-28 12:50:42,428 [main] INFO Main - Chrome browser with Specific port is opened
+2019-08-28 12:51:43,193 [main] INFO Main - Opening Chrome Browser
+2019-08-28 12:51:45,214 [main] INFO Main - Chrome browser with Specific port is opened
+2019-08-28 12:52:24,580 [main] INFO Main - PROD ENVIRONMENT CONFIRMED
+2019-08-28 12:55:34,990 [main] INFO Main - Opening Chrome Browser
+2019-08-28 12:55:37,011 [main] INFO Main - Chrome browser with Specific port is opened
+2019-08-28 12:56:32,686 [main] INFO Main - Opening Chrome Browser
+2019-08-28 12:56:34,707 [main] INFO Main - Chrome browser with Specific port is opened
+2019-08-28 12:57:08,811 [main] INFO Main - QA Environment is Selected
+2019-08-28 12:57:08,816 [main] INFO Main - Opening Chrome Browser
+2019-08-28 12:57:10,832 [main] INFO Main - Chrome browser with Specific port is opened
+2019-08-28 12:57:51,728 [main] INFO Main - QA Environment is Selected
+2019-08-28 12:57:51,733 [main] INFO Main - Opening Chrome Browser
+2019-08-28 12:58:07,250 [main] INFO Main - ENVIRONMENT DEFINED IN CONFIG.PROPERTIES IS QA, BUT CURRENT URL IS PROD --- EXITING SCRIPT EXECUTION
+2019-08-28 12:59:14,305 [main] INFO Main - QA Environment is Selected
+2019-08-28 12:59:14,311 [main] INFO Main - Opening Chrome Browser
+2019-08-28 12:59:35,799 [main] INFO Main - QA Environment is Selected
+2019-08-28 12:59:35,804 [main] INFO Main - Opening Chrome Browser
+2019-08-28 12:59:37,820 [main] INFO Main - Chrome browser with Specific port is opened
+2019-08-28 13:00:12,454 [main] INFO Main - QA Environment is Selected
+2019-08-28 13:00:12,459 [main] INFO Main - Opening Chrome Browser
+2019-08-28 13:00:21,897 [main] INFO Main - ENVIRONMENT DEFINED IN CONFIG.PROPERTIES IS QA, BUT CURRENT URL IS PROD --- EXITING SCRIPT EXECUTION
+2019-08-28 13:01:47,763 [main] INFO Main - QA Environment is Selected
+2019-08-28 13:01:47,770 [main] INFO Main - Opening IE Browser
+2019-08-28 13:02:30,239 [main] INFO Main - ENVIRONMENT DEFINED IN CONFIG.PROPERTIES IS QA, BUT CURRENT URL IS PROD --- EXITING SCRIPT EXECUTION
+2019-08-28 13:05:18,149 [main] INFO Main - QA Environment is Selected
+2019-08-28 13:05:18,154 [main] INFO Main - Opening IE Browser
+2019-08-28 13:05:27,038 [main] INFO Main - ENVIRONMENT DEFINED IN CONFIG.PROPERTIES IS QA, BUT CURRENT URL IS PROD --- EXITING SCRIPT EXECUTION
+2019-08-28 13:05:47,539 [main] INFO Main - QA Environment is Selected
+2019-08-28 13:05:47,545 [main] INFO Main - Opening IE Browser
+2019-08-28 13:06:54,144 [main] INFO Main - QA Environment is Selected
+2019-08-28 13:06:54,149 [main] INFO Main - Opening IE Browser
+2019-08-28 13:08:54,019 [main] INFO Main - QA Environment is Selected
+2019-08-28 13:08:54,024 [main] INFO Main - Opening IE Browser
+2019-08-28 13:09:14,685 [main] INFO Main - QA Environment is Selected
+2019-08-28 13:09:14,691 [main] INFO Main - Opening IE Browser
+2019-08-28 13:09:49,357 [main] INFO Main - QA Environment is Selected
+2019-08-28 13:09:49,365 [main] INFO Main - Opening IE Browser
+2019-08-28 13:16:03,732 [main] INFO Main - Opening IE Browser
+2019-08-28 13:17:16,896 [main] INFO Main - Opening IE Browser
+2019-08-28 13:17:24,899 [main] INFO Main - PROD ENVIRONMENT CONFIRMED
+2019-08-28 13:17:53,880 [main] INFO Main - Opening Chrome Browser
+2019-08-28 13:17:55,931 [main] INFO Main - Chrome browser with Specific port is opened
+2019-08-28 13:18:06,089 [main] INFO Main - PROD ENVIRONMENT CONFIRMED
+2019-08-28 13:18:31,399 [main] INFO Main - QA Environment is Selected
+2019-08-28 13:18:31,404 [main] INFO Main - Opening Chrome Browser
+2019-08-28 13:18:33,422 [main] INFO Main - Chrome browser with Specific port is opened
+2019-08-28 13:19:32,338 [main] INFO Main - QA Environment is Selected
+2019-08-28 13:19:32,345 [main] INFO Main - Opening Chrome Browser
+2019-08-28 13:19:40,513 [main] INFO Main - PROD ENVIRONMENT CONFIRMED
+2019-08-28 13:19:40,514 [main] INFO Main - ENVIRONMENT DEFINED IN CONFIG.PROPERTIES IS QA, BUT CURRENT URL IS PROD --- EXITING SCRIPT EXECUTION
+2019-08-28 13:20:47,062 [main] INFO Main - QA Environment is Selected
+2019-08-28 13:20:47,067 [main] INFO Main - Opening Chrome Browser
+2019-08-28 13:20:49,084 [main] INFO Main - Chrome browser with Specific port is opened
+2019-08-28 13:21:43,039 [main] INFO Main - QA Environment is Selected
+2019-08-28 13:21:43,044 [main] INFO Main - Opening Chrome Browser
+2019-08-28 13:21:45,169 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Inspire Link) Found ........
+2019-08-28 13:21:45,181 [main] INFO Scripts.Login - Inspire link Found
+2019-08-28 13:21:50,341 [main] INFO CommonFunctions.CommonFunction - 	....... Object (MemberID Textbox Field) Found ........
+2019-08-28 13:21:50,343 [main] INFO Scripts.Login - MemberID text field displayed
+2019-08-28 13:21:56,233 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Inspire Link) Found ........
+2019-08-28 13:21:57,328 [main] INFO Scripts.Login - Member Home Page displays
+2019-08-28 13:23:00,802 [main] INFO Main - QA Environment is Selected
+2019-08-28 13:23:00,808 [main] INFO Main - Opening Chrome Browser
+2019-08-28 13:24:26,444 [main] INFO Scripts.Medication - Home page NOT displayed... Exiting script execution
+2019-08-28 13:39:40,152 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 13:39:40,159 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 13:40:34,615 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 13:40:34,620 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 13:41:11,511 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 13:41:11,516 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 13:41:13,537 [main] INFO Start_Main - Chrome browser with Specific port is opened
+2019-08-28 13:41:52,695 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 13:41:52,699 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 13:41:59,361 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Inspire Link) Found ........
+2019-08-28 13:41:59,373 [main] INFO Scripts.Login - Inspire link Found
+2019-08-28 13:42:29,998 [main] INFO CommonFunctions.CommonFunction - 	....... Object (MemberID Textbox Field) Found ........
+2019-08-28 13:42:29,999 [main] INFO Scripts.Login - MemberID text field displayed
+2019-08-28 13:43:11,220 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Inspire Link) Found ........
+2019-08-28 13:43:12,257 [main] INFO Scripts.Login - Member Home Page displays
+2019-08-28 13:43:36,466 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 13:43:36,471 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 13:51:14,558 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 13:51:14,565 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 14:32:59,780 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 14:32:59,785 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 14:33:02,487 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Inspire Link) Found ........
+2019-08-28 14:33:02,500 [main] INFO Scripts.Login - Inspire link Found
+2019-08-28 14:33:18,245 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 14:33:18,256 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 14:33:20,276 [main] INFO Start_Main - Chrome browser with Specific port is opened
+2019-08-28 14:33:39,972 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Inspire Link) Found ........
+2019-08-28 14:33:39,986 [main] INFO Scripts.Login - Inspire link Found
+2019-08-28 14:33:58,247 [main] INFO CommonFunctions.CommonFunction - 	....... Object (MemberID Textbox Field) Found ........
+2019-08-28 14:33:58,249 [main] INFO Scripts.Login - MemberID text field displayed
+2019-08-28 14:34:16,943 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Inspire Link) Found ........
+2019-08-28 14:34:17,991 [main] INFO Scripts.Login - Member Home Page displays
+2019-08-28 14:35:12,912 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 14:35:12,917 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 14:35:14,935 [main] INFO Start_Main - Chrome browser with Specific port is opened
+2019-08-28 14:35:34,143 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 14:35:34,149 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 14:36:02,632 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 14:36:02,637 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 14:38:15,660 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 14:38:15,664 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 14:46:31,508 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 14:46:31,513 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 14:50:10,734 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 14:50:10,739 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 14:50:47,039 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Add allergy page) Found ........
+2019-08-28 14:52:53,831 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 14:52:53,837 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 14:54:12,139 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 14:54:12,144 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 14:54:25,003 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Add allergy page) Found ........
+2019-08-28 16:15:52,409 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 16:15:52,413 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 16:15:55,450 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Inspire Link) Found ........
+2019-08-28 16:15:55,467 [main] INFO Scripts.Login - Inspire link Found
+2019-08-28 16:17:27,829 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 16:17:27,839 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 16:17:30,574 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Inspire Link) Found ........
+2019-08-28 16:17:30,585 [main] INFO Scripts.Login - Inspire link Found
+2019-08-28 16:17:49,927 [main] INFO CommonFunctions.CommonFunction - 	....... Object (MemberID Textbox Field) Found ........
+2019-08-28 16:17:49,928 [main] INFO Scripts.Login - MemberID text field displayed
+2019-08-28 16:18:09,175 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Inspire Link) Found ........
+2019-08-28 16:18:10,262 [main] INFO Scripts.Login - Member Home Page displays
+2019-08-28 16:22:12,201 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 16:22:12,209 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 16:22:36,964 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 16:22:36,969 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 16:23:02,492 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 16:23:02,498 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 16:23:08,784 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Add allergy page) Found ........
+2019-08-28 16:23:33,059 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 16:23:33,070 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 16:24:00,010 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 16:24:00,016 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 16:25:40,355 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 16:25:40,363 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 16:26:25,420 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 16:26:25,428 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 16:32:03,389 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 16:32:03,404 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 16:32:33,591 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 16:32:33,601 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 16:32:59,124 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 16:32:59,129 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 16:33:49,246 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 16:33:49,255 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 16:34:42,863 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 16:34:42,868 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 16:35:33,980 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 16:35:33,985 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 16:35:46,399 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 16:35:46,404 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 16:39:34,229 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 16:39:34,236 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 16:39:46,964 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 16:39:46,968 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 16:41:22,919 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 16:41:22,928 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 16:41:57,419 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 16:41:57,424 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 16:42:09,173 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 16:42:09,184 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 16:42:57,816 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 16:42:57,827 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 16:43:30,520 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 16:43:30,526 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 16:43:50,756 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Add allergy page) Found ........
+2019-08-28 16:44:14,664 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 16:44:14,669 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 16:44:21,539 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Add allergy page) Found ........
+2019-08-28 16:45:09,060 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 16:45:09,069 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 16:45:16,100 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Add allergy page) Found ........
+2019-08-28 16:45:25,152 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 16:45:25,157 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 16:45:32,076 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Add allergy page) Found ........
+2019-08-28 17:09:35,174 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 17:09:35,180 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 17:13:11,257 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 17:13:11,262 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 17:13:31,903 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 17:13:31,908 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 17:14:36,403 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 17:14:36,409 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 17:14:56,745 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 17:14:56,755 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 17:15:26,190 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 17:15:26,198 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 17:15:52,168 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 17:15:52,179 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 17:18:23,224 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 17:18:23,228 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 17:18:52,003 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 17:18:52,008 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 17:19:16,262 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 17:19:16,275 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 17:20:15,309 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 17:20:15,314 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 17:35:39,383 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 17:35:39,388 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 17:36:07,228 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 17:36:07,233 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 17:36:13,178 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Add allergy page) Found ........
+2019-08-28 17:36:27,743 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 17:36:27,747 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 17:36:33,775 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Add allergy page) Found ........
+2019-08-28 17:41:52,474 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 17:41:52,478 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 17:42:04,448 [main] INFO Scripts.Medication - Allergy Edit button is NOT enabled
+2019-08-28 17:42:45,208 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 17:42:45,217 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 17:43:42,291 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 17:43:42,296 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 17:44:14,742 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 17:44:14,747 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 17:44:39,152 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 17:44:39,157 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 17:48:08,965 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 17:48:08,975 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 17:48:15,310 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Add allergy page) Found ........
+2019-08-28 17:48:42,537 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 17:48:42,541 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 17:48:48,485 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Add allergy page) Found ........
+2019-08-28 17:49:02,809 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 17:49:02,814 [main] INFO Start_Main - Opening Chrome Browser
+2019-08-28 17:49:08,902 [main] INFO CommonFunctions.CommonFunction - 	....... Object (Add allergy page) Found ........
+2019-08-28 17:50:41,200 [main] INFO Start_Main - QA Environment is Selected
+2019-08-28 17:50:41,205 [main] INFO Start_Main - Opening Chrome Browser
